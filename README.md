@@ -27,5 +27,3 @@ https://www.youtube.com/watch?v=KmknP3KVYIs
 <img src="https://github.com/LeeMoofon0222/Unity-ML-Agents/blob/main/ReadMe_Picture/Pic16.png?raw=true">
 <img src="https://github.com/LeeMoofon0222/Unity-ML-Agents/blob/main/ReadMe_Picture/Pic17.png?raw=true">
 <img src="https://github.com/LeeMoofon0222/Unity-ML-Agents/blob/main/ReadMe_Picture/Pic18.png?raw=true">
-<img src="https://github.com/LeeMoofon0222/Unity-ML-Agents/blob/main/ReadMe_Picture/Pic19.png?raw=true">
-<img src="https://github.com/LeeMoofon0222/Unity-ML-Agents/blob/main/ReadMe_Picture/Pic20.png?raw=true">
